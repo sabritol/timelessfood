@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Wrapper = styled.div`
 	padding: 28rem 0 4rem 0;
-	background-image: url('..public/images/footer.jpg');
+	background-image: url('../images/footer.jpg');
 	background-size: cover;
 	background-position: top;
 	background-repeat: no-repeat;
