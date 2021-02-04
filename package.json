@@ -54,7 +54,7 @@
   "main": "n/a",
   "scripts": {
     "start": "npm run clean && npm run develop",
-    "build": "CI= npm run build",
+    "build": "gatsby build" ,
     "develop": "gatsby develop",
     "clean": "del-cli .cache public",
     "serve": "gatsby serve",
